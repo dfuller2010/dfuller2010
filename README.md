@@ -1,8 +1,8 @@
 <h1>Hi, I'm David! </h1>
 
-<!-- <h2>👨‍💻 Cybersecurity Projects:</h2> -->
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Active Directory Home Lab</b>
+<!-- - <b>Active Directory Home Lab</b> -->
   - [Active Directory Home Lab](https://github.com/dfuller2010/ActiveDirectoryLab)
 
 
