@@ -1,9 +1,11 @@
 <h1>Hi, I'm David! </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Information Technology and Cybersecurity Projects:</h2>
 
 <!-- - <b>Active Directory Home Lab</b> -->
   - [Active Directory Home Lab](https://github.com/dfuller2010/ActiveDirectoryLab)
+
+<h2>📺 Certifications</h2>
 
 
 <h2>📺 Popular YouTube Videos</h2>
