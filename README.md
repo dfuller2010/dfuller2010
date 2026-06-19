@@ -1,47 +1,89 @@
-<h1>Hi, I'm David! </h1>
+# Hi, I'm Dr. David P. Fuller
 
-<h2>👨‍💻 Information Technology and Cybersecurity Projects:</h2>
+## Educator | Cybersecurity Student | AI Automation Enthusiast
 
-<!-- - <b>Active Directory Home Lab</b> -->
-  - [Active Directory Home Lab](https://github.com/dfuller2010/ActiveDirectoryLab)
+I am an educator, technology leader, and founder of **Sauvegarde, LLC**, where I help small and mid-sized organizations improve cybersecurity, strengthen compliance readiness, and safely adopt AI-powered automation.
 
-<h2>📺 Certifications</h2>
+My professional background spans higher education, special education, instructional leadership, cybersecurity, and emerging technologies. I enjoy building practical solutions that help organizations reduce risk, improve efficiency, and make better technology decisions.
 
+---
 
-<h2>📺 Popular YouTube Videos</h2>
+## Current Focus Areas
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+* Cybersecurity Risk Assessments
+* Cyber Health Score Reporting
+* AI Automation Audits
+* Compliance Readiness
+* Security Awareness Training
+* Python Programming
+* Workflow Automation
+* Data Analytics
+* Cloud Technologies
 
-<h2> 🤳 Connect with me:</h2>
+---
 
-<!-- [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
--->
+## What I'm Learning
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+I believe in continuous learning and use this GitHub profile to document my journey.
 
+Currently exploring:
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/dfuller2010
+* Python Development
+* Computer Science Fundamentals
+* Secure Software Development
+* DevOps Concepts
+* AI Agent Development
+* Automation Workflows
+* Data Analysis and Visualization
+* Cybersecurity Engineering
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Cyber Health Score Platform
+
+A cybersecurity assessment framework designed to help small businesses identify security gaps and prioritize improvements.
+
+### AI Automation Audit Framework
+
+A methodology for evaluating how organizations use AI tools and workflow automation safely, effectively, and responsibly.
+
+### Python Learning Portfolio
+
+A collection of projects documenting my progress as I continue to expand my programming and software development skills.
+
+### Security & Compliance Resources
+
+Templates, guides, and tools aligned with NIST CSF, CIS Controls, HIPAA, and other security frameworks.
+
+---
+
+## Professional Interests
+
+* Cybersecurity
+* Artificial Intelligence
+* Educational Technology
+* Process Improvement
+* Business Automation
+* Compliance and Governance
+* Digital Transformation
+* Leadership Development
+
+---
+
+## Connect With Me
+
+🌐 Website: https://www.sauvegarde.us
+
+💼 Founder, Sauvegarde, LLC
+
+📚 Educator and Technology Professional
+
+---
+
+## Philosophy
+
+> Technology should simplify complexity, reduce risk, and empower people to achieve more.
+
+Thank you for visiting my GitHub profile. Feel free to explore my repositories as I continue building projects, sharing resources, and documenting my learning journey.
