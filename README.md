@@ -1,4 +1,4 @@
-# Hi, I'm Dr. David P. Fuller
+# Hi, I'm David P. Fuller
 
 ## Educator | Cybersecurity Student | AI Automation Enthusiast
 
