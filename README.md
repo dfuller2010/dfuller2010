@@ -2,7 +2,7 @@
 
 ## Educator | Cybersecurity Student | AI Automation Enthusiast
 
-I am an educator, technology leader, and founder of **Sauvegarde, LLC**, where I help small and mid-sized organizations improve cybersecurity, strengthen compliance readiness, and safely adopt AI-powered automation.
+I am an educator, technology enthusiast, and founder of **Sauvegarde, LLC**, where I help small and mid-sized organizations improve cybersecurity, strengthen compliance readiness, and safely adopt AI-powered automation.
 
 My professional background spans higher education, special education, instructional leadership, cybersecurity, and emerging technologies. I enjoy building practical solutions that help organizations reduce risk, improve efficiency, and make better technology decisions.
 
