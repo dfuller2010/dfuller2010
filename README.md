@@ -10,15 +10,13 @@ My professional background spans higher education, special education, instructio
 
 ## Current Focus Areas
 
+* Python Programming
+* Data Analytics
 * Cybersecurity Risk Assessments
 * Cyber Health Score Reporting
 * AI Automation Audits
 * Compliance Readiness
-* Security Awareness Training
-* Python Programming
 * Workflow Automation
-* Data Analytics
-* Cloud Technologies
 
 ---
 
@@ -31,11 +29,10 @@ Currently exploring:
 * Python Development
 * Computer Science Fundamentals
 * Secure Software Development
+* Data Analysis and Visualization
 * DevOps Concepts
 * AI Agent Development
 * Automation Workflows
-* Data Analysis and Visualization
-* Cybersecurity Engineering
 
 ---
 
